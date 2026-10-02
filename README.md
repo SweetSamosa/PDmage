@@ -1,3 +1,6 @@
+[![GitHub All Releases](https://shields.io)](https://github.com)
+
+
 **PDmage – Privacy First Offline PDF & Image Toolkit**
 
 ![PDmage Logo](app_icon_512x51222.png)
