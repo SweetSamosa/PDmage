@@ -4,6 +4,21 @@
 
 ![PDmage Logo](app_icon_512x51222.png)
 
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/SweetSamosa/PDmage?style=for-the-badge&logo=github)](https://github.com/SweetSamosa/PDmage/stargazers)
+[![Forks](https://img.shields.io/github/forks/SweetSamosa/PDmage?style=for-the-badge&logo=github)](https://github.com/SweetSamosa/PDmage/forks)
+[![Issues](https://img.shields.io/github/issues/SweetSamosa/PDmage?style=for-the-badge&logo=github)](https://github.com/SweetSamosa/PDmage/issues)
+[![License](https://img.shields.io/github/license/SweetSamosa/PDmage?style=for-the-badge)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/SweetSamosa/PDmage?style=for-the-badge)](https://github.com/SweetSamosa/PDmage/commits/main)
+
+![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat&logo=kotlin)
+![Offline](https://img.shields.io/badge/Processing-100%25%20Offline-success?style=flat)
+![Privacy](https://img.shields.io/badge/Privacy-Focused-blue?style=flat)
+
+</div>
+
 
 PDmage is a powerful, all-in-one utility designed for seamless PDF and image management — built with a strict focus on privacy, performance, and simplicity. Unlike most apps that rely on cloud processing, PDmage works completely offline, ensuring that your files never leave your device. No uploads, no tracking, no compromises.
 
