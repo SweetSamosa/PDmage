@@ -44,8 +44,6 @@ A comprehensive PDF reader, editor, document scanner and image toolkit for Andro
 
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Privacy](https://img.shields.io/badge/Privacy-First-2563EB?style=flat)
-![Offline](https://img.shields.io/badge/Processing-Mostly%20Offline-16A34A?style=flat)
 
 </div>
 
