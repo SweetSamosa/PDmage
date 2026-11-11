@@ -69,7 +69,7 @@ Built with an emphasis on performance, ease of use and privacy, PDmage provides 
 - 🖼️ Compress, resize, crop and convert images.
 - 🔄 Convert documents into different formats.
 - 🔒 Process files locally for privacy and control.
-
+- 🔏 Redact files and remove backround from images
 ---
 
 ## 🔒 Privacy First. Your Files Stay Under Your Control.
@@ -143,6 +143,7 @@ Keep sensitive documents protected and maintain better control over access to yo
 - Remove Password from Authorized PDFs
 - Cryptographic Signatures
 - Document Sanitization
+- Redact PDFs
 
 Protect personal, academic and professional documents while keeping your files under your control.
 
@@ -206,6 +207,7 @@ Manage and optimize images with a collection of useful editing and conversion to
 - **Rotate Images:** Correct image orientation.
 - **Join Images:** Combine multiple images into organized pages.
 - **Convert Image Formats:** Convert between supported formats such as JPG, JPEG, PNG and WEBP.
+- **Background Remover:** Remove background from images manually or using Machine Learning Algo
 
 Whether you need to reduce an image for uploading, resize photographs for a form or convert multiple images into a convenient format, PDmage makes image management easier.
 
