@@ -1,10 +1,9 @@
 
 <div align="center">
 
-<img src="app_icon_512x51222.png" width="140" alt="PDmage Logo">
+<img src="PDmage logo.png" width="140" alt="PDmage Logo">
 
 # PDmage
-
 ### Your Documents. Your Images. One Powerful Toolkit.
 
 **Read, Edit, Scan, Convert, Secure & Manage — All in One App.**
